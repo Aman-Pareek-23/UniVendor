@@ -66,12 +66,12 @@ Finally, go to your repository in the browser and click on `compare and pull req
 Then add a title and description to your pull request that explains your precious effort.
 
 <details>
-  <summary>The title of the image group</summary>
+  <summary>Project Images</summary>
   <img src="https://github.com/user-attachments/assets/7b652b0c-c975-4317-bff2-17eeeb318fde" alt="image-description"/>
-  
-
   <img src="https://github.com/user-attachments/assets/a6f81877-5709-4376-84bf-ad260ddd0f42" alt="image-description"/>
   <img src="https://github.com/user-attachments/assets/907c913d-040b-4ad5-a4d5-8cc505b435c4" alt="image-description"/>
+  <img src="https://github.com/user-attachments/assets/b0ce1bd5-555b-4594-80ce-4841e8123746" alt="image-description"/>
+  <img src="https://github.com/user-attachments/assets/21d8ed31-0ab6-438e-979e-39e628f29c89" alt="image-description"/>
 </details>
 
 ### Update Contribution.md
